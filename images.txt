@@ -1,5 +1,3 @@
-nginx
-python
 pgvector
 ollama
 pipelines
