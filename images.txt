@@ -1,2 +1,9 @@
 nginx
 python
+pgvector
+ollama
+pipelines
+one-api
+redis:7-alpine
+open-webui:cuda
+n8n
