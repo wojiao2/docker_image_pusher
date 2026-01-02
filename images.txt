@@ -1,4 +1,3 @@
-pgvector
 ollama
 pipelines
 one-api
