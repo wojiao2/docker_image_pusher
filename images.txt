@@ -2,3 +2,9 @@ redis:7-alpine
 ollama/ollama
 docker.n8n.io/n8nio/n8n
 ghcr.io/open-webui/open-webui
+pgvector/pgvector
+yanwk/comfyui-boot
+nginx
+python
+ghcr.io/open-webui/pipelines
+ghcr.io/songquanpeng/one-api
