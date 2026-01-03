@@ -1,2 +1,2 @@
 redis:7-alpine
-ollama
+ollama/ollama
