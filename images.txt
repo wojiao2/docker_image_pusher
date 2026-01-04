@@ -6,4 +6,4 @@ nginx
 python
 ghcr.io/open-webui/pipelines
 ghcr.io/songquanpeng/one-api
-yanwk/comfyui
+yanwk/comfyui-boot
