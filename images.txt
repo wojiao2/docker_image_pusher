@@ -6,5 +6,5 @@ nginx
 python
 ghcr.io/open-webui/pipelines
 ghcr.io/songquanpeng/one-api
-yanwk/comfyui-boot
+yanwk/comfyui-boot:cu121
 pgvector/pgvector:pg17
