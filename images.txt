@@ -7,4 +7,4 @@ python
 ghcr.io/open-webui/pipelines
 ghcr.io/songquanpeng/one-api
 yanwk/comfyui-boot
-pgvector/pgvector
+pgvector/pgvector:pg17
