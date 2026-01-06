@@ -1,4 +1,4 @@
-docker.xuanyuan.run/gdy666/lucky:latest
+gdy666/lucky
 ngrok/ngrok
 redis:7-alpine
 ollama/ollama
