@@ -1,3 +1,4 @@
+caddy
 gdy666/lucky
 ngrok/ngrok
 redis:7-alpine
